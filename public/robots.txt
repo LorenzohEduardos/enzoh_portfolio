@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edwardlorenz.vercel.app/sitemap.xml
